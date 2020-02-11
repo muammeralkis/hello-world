@@ -4,7 +4,7 @@ Hi everyone !
 Unfortunately TextInput component doesn't work properly on android. I mean that when there is a bottomTabNavigator it seems for a while and it goes.
 But I don't think that any Developer wants that. This is why I share my solution
 
-![Repo List](screenshots/Simulator Screen Shot - iPhone 6s - 2020-02-11 at 18.39.08.png)
+![Repo List](hello-world/screenshots/Simulator Screen Shot - iPhone 6s - 2020-02-11 at 18.39.08.png)
 
 ```
 YourStack.navigationOptions = ({navigation}) => {
